@@ -1,2 +1,1 @@
-# p6-oauth-discord
-Perl 6 module for authenticating against Discord's OAuth2 API.
+`OAuth::Discord` is a Perl 6 module for authenticating against Discord's OAuth2 API.
