@@ -7,6 +7,9 @@
     "licence" : "BSD-3-Clause",
     "name" : "OAuth2::Discord",
     "perl" : "6.*",
+    "provides" : {
+        "OAuth2::Discord" : "lib/OAuth2/Discord.pm6"
+    },
     "repo-type" : "git",
     "source-url" : "git@github.com:shuppet/p6-oauth2-discord.git",
     "version" : "0.0.1"
