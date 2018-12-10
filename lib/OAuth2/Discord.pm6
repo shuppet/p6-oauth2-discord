@@ -18,7 +18,7 @@ method auth-uri {
      ( client_id              => self!client-id,
        client_secret          => self!client-secret,
        grant_type             => $.grant-type,
-       code                   => $.code,
+       code                   => 'code',
        redirect_uri           => $.redirect-uri,
        scope                  => $.scope,
      ).sort.map({ "{.key}={.value}" }).join('&');
