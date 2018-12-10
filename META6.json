@@ -5,9 +5,9 @@
     ],
     "description" : "Perl 6 module for authenticating against Discord's OAuth2 API.",
     "licence" : "BSD-3-Clause",
-    "name" : "OAuth::Discord",
+    "name" : "OAuth2::Discord",
     "perl" : "6.*",
     "repo-type" : "git",
-    "source-url" : "git@github.com:shuppet/p6-oauth-discord.git",
+    "source-url" : "git@github.com:shuppet/p6-oauth2-discord.git",
     "version" : "0.0.1"
 }
