@@ -5,7 +5,6 @@ use JSON::Fast;
 
 has $.config;
 has $.grant-type = 'authorization_code';
-had $.code;
 has Str:D $.redirect-uri is required;
 has $.scope is required;
 
