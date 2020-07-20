@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/12242877/87892641-8912a780-ca35-11ea-92c9-04388d5afacd.png)
 
-`OAuth2::Discord` is a Perl 6 module for authenticating against Discord's OAuth2 API.
+`OAuth2::Discord` is a Raku (formerly Perl 6) module for authenticating against Discord's OAuth2 API.
 
 ## Installation
 
